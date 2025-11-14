@@ -845,7 +845,7 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Mobiles</h3>
+                <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
@@ -855,7 +855,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothes</h3>
+                <h3>Clothing</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
