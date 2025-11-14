@@ -855,7 +855,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothing</h3>
+                <h3>Clothes</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
