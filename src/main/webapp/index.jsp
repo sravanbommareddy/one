@@ -860,12 +860,12 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-headphones"></i></div>
-                <h3>Gadgets</h3>
+                <h3>tools</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
-                <h3>Footwear</h3>
+                <h3>shoes</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
@@ -879,7 +879,7 @@
     <!-- Trending Products -->
     <section class="container">
         <div class="section-title">
-            <h2>Trending Products</h2>
+            <h2>Trending Products and things</h2>
             <p>Discover what's popular right now</p>
         </div>
         
