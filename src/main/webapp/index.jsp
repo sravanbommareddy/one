@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Summer Collection in 2026</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 70% off selected items</p>
+            <p>Find the latest trends in fashion, technology and accessories with up to 70% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
