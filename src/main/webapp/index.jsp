@@ -876,7 +876,7 @@
         </div>
     </section>
 
-    <!-- Trending Products -->
+    <!-- Trending Products and things -->
     <section class="container">
         <div class="section-title">
             <h2>Trending Products and things</h2>
