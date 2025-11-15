@@ -838,14 +838,14 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>Shop by Categories and options</h2>
+            <h2>Shop by Categories</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>Smartphones and mobiles</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
