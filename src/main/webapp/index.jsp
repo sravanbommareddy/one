@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Winter Collection in 2025 sales</h1>
-            <p>Find the latest trends in fashion, technology and accessories with up to 70% off selected items</p>
+            <p>Find the latest trends in fashion, technology and accessories with up to 65% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
